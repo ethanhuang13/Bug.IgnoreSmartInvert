@@ -1,4 +1,4 @@
-# Bug.IgnoreSmartInvert
+# Bug.IgnoreSmartInvert [rdar://45663655](http://www.openradar.me/radar?id=4963036246835200)
 
 This sample project demos a bug of UIView.accessibilityIgnoresInvertColors.
 
